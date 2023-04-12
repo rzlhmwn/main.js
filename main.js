@@ -1,8 +1,8 @@
 const allStories = [
   {
-    thumbUrl: "images/1-thumb.png",
-    imageUrl: "images/1.png",
-    title: "Title No. 1",
+    thumbUrl: "https://alegraaluminio.com/wp-content/uploads/2022/09/banner-sliding.jpg",
+    imageUrl: "https://alegraaluminio.com/wp-content/uploads/2022/09/banner-sliding.jpg",
+    title: "Bali contoh",
   },
 
   {
